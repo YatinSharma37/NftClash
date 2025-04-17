@@ -2,25 +2,17 @@
 
 **NFTClash** is a Web3-powered dApp game where users can collect, trade, and battle with NFTs on the blockchain. Built with ❤️ using React, Solidity, and Web3.js.
 
-![NFTClash Banner](images\img1.png)
-
-(images\img2.png)
-
-(images\img3.png)
-
-
-(images\img4.png)
+<img src="images/img1.png" width="200px" style="display:inline-block; margin-right: 10px;" />
+<img src="images/img2.png" width="200px" style="display:inline-block; margin-right: 10px;" />
+<img src="images/img3.png" width="200px" style="display:inline-block; margin-right: 10px;" />
+<img src="images/img4.png" width="200px" style="display:inline-block; margin-right: 10px;" />
+<img src="images/img5.png" width="200px" style="display:inline-block; margin-right: 10px;" />
+<img src="images/img6.png" width="200px" style="display:inline-block; margin-right: 10px;" />
 
 
 
-(images\img5.png)
 
 
-(images\img6.png)
-
-
-
-(images\img7.png)
 ---
 
 ## 🎮 Features
