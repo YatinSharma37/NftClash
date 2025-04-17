@@ -1,38 +1,46 @@
-# Cryptostory
+# 🚀 NFTClash
 
-Inspired by the boom in NFTs and wanting to try something new, our team wanted to introduce a gameplay aspect to NFTs.
+**NFTClash** is a Web3-powered dApp game where users can collect, trade, and battle with NFTs on the blockchain. Built with ❤️ using React, Solidity, and Web3.js.
 
-[Video Demo](https://www.youtube.com/watch?v=n8q_2kQA4NM)
+![NFTClash Banner](images\img1.png)
 
-## Development
+(images\img2.png)
 
-### Install dependencies:
+(images\img3.png)
 
-```
-yarn
-truffle compile
-truffle migrate
-```
 
-#### Truffle
-Truffle is an awesome package for blockchain development.
-It is used to 
-When developing this project we had to lock our truffle version.
-Use `yarn global add truffle@5.0.5`
+(images\img4.png)
 
-#### Ganache
-You will also need to install [Ganache](https://www.trufflesuite.com/ganache).
-Ganache runs a local ethereum network on your computer, so we don't need to spend $$$ deploying to the Ethereum Mainnet
 
-#### MetaMask
-If you don't already have it, install [MetaMask](https://metamask.io/).
-MetaMask is a cryptocurrency wallet.
 
-### Start the app `yarn start`
+(images\img5.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+(images\img6.png)
+
+
+
+(images\img7.png)
+---
+
+## 🎮 Features
+
+- 🔐 Connect with MetaMask
+- 🧠 Smart Contracts (Solidity)
+- 🖼 Mint, Buy & Sell NFTs
+- ⚔️ NFT Battle Arena (coming soon)
+- 🌐 Deployed on [Testnet / Mainnet]
+
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend**: React.js, Web3.js
+- **Smart Contracts**: Solidity
+- **Blockchain**: Ethereum / Polygon / Any EVM chain
+- **Tools**: Hardhat / Truffle, IPFS, MetaMask, Ethers.js
+
+---
+
+## 📁 Folder Structure
 
